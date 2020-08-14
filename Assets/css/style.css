@@ -1,0 +1,16 @@
+.left-margin {
+    margin-left: 20px;
+}
+
+.right-margin{
+    margin-right: 20px;
+}
+
+h1 {
+    font-family: Georgia, serif;
+    color: #008080;
+}
+
+.bg-mint {
+    background-color: #dcffff;
+}
